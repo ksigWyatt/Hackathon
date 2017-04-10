@@ -1,0 +1,8 @@
+*.DSStore
+*_DS_Store
+*.png
+*/Assets*
+*/xcuserdata*
+*.json
+*.xcuserstate
+*.entitlements
