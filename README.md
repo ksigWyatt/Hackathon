@@ -7,7 +7,7 @@ This repo is what was left of my code from the greak hackening of 2017.
 This is all that is left of the AR App that I was making. If I can still find any screenshots, I will add them here.
 
 
-## Hertz Hackathon 2017 Team
+## Hackathon Team
 - Chase Keenan
 - Alex Marsh
 - Wyatt Baggett
